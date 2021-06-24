@@ -1,4 +1,5 @@
 This README contains 3 sections - Problem Statement, Running the PHP application in Ubuntu and Output Screenshots.
+You can view the README in your text editor or at this link - https://github.com/Shreya-7/PHPLogin/blob/master/README.md
 
 # Problem Statement   
 Develop PHP script for preparing a login screen with user name and password field by validating across the database as stated below. If the login is successful, clear the screen and greet the user, e.g. "Welcome Sidd!" assuming the user name is Sidd.
